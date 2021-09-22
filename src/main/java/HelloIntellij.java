@@ -5,5 +5,6 @@ public class HelloIntellij {
      */
     public static void main(String[] args) {
         System.out.println("Hello Trang 20020482");
+        System.out.println("I love you <3");
     }
 }
